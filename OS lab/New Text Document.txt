@@ -1,0 +1,12 @@
+Page Replacement:
+https://github.com/pockemon/Operating-systems--LAB
+
+
+
+Memory Allocation (Bset, first, worst)
+https://www.geeksforgeeks.org/program-first-fit-algorithm-memory-management/
+
+
+
+bankers-algorithm:
+https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/
